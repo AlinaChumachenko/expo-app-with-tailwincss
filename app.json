@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-app-with-tailwincss",
-    "slug": "expo-app-with-tailwincss",
+    "name": "expo-app-with-tailwindcss",
+    "slug": "expo-app-with-tailwindcss",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -24,7 +24,7 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": ""
     },
     "plugins": [
       "expo-router"
